@@ -1,0 +1,8 @@
+ID,Name,Mathematics,Physics,Chemistry,English,Computer Science,Total,Average,Percentage,Grade,Status
+STU101,Amina Rahman,95.0,92.0,88.0,91.0,96.0,462.0,92.4,92.4,A+,PASS
+STU102,Tariqul Islam,82.0,85.0,79.0,76.0,88.0,410.0,82.0,82.0,A,PASS
+STU103,Farhana Yasmin,74.0,68.0,72.0,81.0,75.0,370.0,74.0,74.0,B,PASS
+STU104,Nafis Iqbal,62.0,58.0,65.0,60.0,65.0,310.0,62.0,62.0,C,PASS
+STU105,Sadia Chowdhury,52.0,50.0,55.0,48.0,55.0,260.0,52.0,52.0,D,PASS
+STU106,Rohan Ahmed,78.0,34.0,82.0,70.0,80.0,344.0,68.8,68.8,C,FAIL
+STU107,Mahmud Hasan,35.0,32.0,42.0,38.0,45.0,192.0,38.4,38.4,F,FAIL
