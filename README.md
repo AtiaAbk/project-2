@@ -213,8 +213,8 @@ Step-by-step entry workflow with real-time mark validation and instant report ge
 
 ### Step 1: Clone or Navigate to the Project
 ```bash
-git clone https://github.com/<your-username>/student-result-management-system.git
-cd student-result-management-system
+git clone https://github.com/syedsaeedalsefat-max/project-2.git
+cd project-2
 ```
 *(Or navigate to `d:\Advanced Python\Project 01` if running locally)*
 
@@ -272,34 +272,19 @@ OK
 
 ---
 
-## 📤 GitHub Repository Setup Guide
+## 📤 Repository & Submission Link
 
-To submit this project to your GitHub account:
+The official repository for this project is available at:
+```
+https://github.com/syedsaeedalsefat-max/project-2
+```
 
-1. **Initialize Git Repository** (if not already done):
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Coaching Center Student Result Management System"
-   ```
-
-2. **Create a New Repository on GitHub**:
-   - Go to [GitHub New Repository](https://github.com/new).
-   - Set repository name: `student-result-management-system` (or `coaching-center-result-manager`).
-   - Leave it **Public**.
-   - Do **not** initialize with a README, .gitignore, or license (they are already present).
-
-3. **Link Remote and Push**:
-   ```bash
-   git branch -M main
-   git remote add origin https://github.com/<your-github-username>/student-result-management-system.git
-   git push -u origin main
-   ```
-
-4. **Your Submission Link**:
-   ```
-   https://github.com/<your-github-username>/student-result-management-system
-   ```
+To clone and run:
+```bash
+git clone https://github.com/syedsaeedalsefat-max/project-2.git
+cd project-2
+python main.py
+```
 
 ---
 
