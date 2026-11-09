@@ -173,3 +173,4 @@ def render_student_table(students: List[Student]) -> None:
 
     print(f"{Colors.CYAN}{divider}{Colors.RESET}")
     print(f" Total records displayed: {len(students)}")
+

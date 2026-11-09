@@ -309,3 +309,4 @@ During evaluation, you can present:
 - **Robustness**: Point out how input validation catches invalid strings, non-numeric values, marks outside 0-100, and duplicate student IDs.
 - **Ties in High/Low Scorers**: Show how `get_highest_scoring_students()` and `get_lowest_scoring_students()` return lists rather than single values so tied students are not excluded.
 - **CSV Data Integrity**: Demonstrate adding a student, terminating the app, restarting it, and showing that the student record persisted.
+

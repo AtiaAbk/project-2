@@ -203,3 +203,4 @@ class Student:
 
     def __repr__(self) -> str:
         return f"Student(id={self.student_id!r}, name={self.name!r}, total={self.total_marks}, grade={self.grade!r}, status={self.status!r})"
+

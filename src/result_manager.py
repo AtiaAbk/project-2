@@ -277,3 +277,4 @@ class ResultManager:
             return True, f"Successfully loaded {loaded_count} student record(s) from '{target_path}'."
         except Exception as e:
             return False, f"Failed to load from CSV: {str(e)}"
+

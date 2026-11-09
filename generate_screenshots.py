@@ -277,3 +277,4 @@ def generate_all_screenshots():
 
 if __name__ == "__main__":
     generate_all_screenshots()
+
